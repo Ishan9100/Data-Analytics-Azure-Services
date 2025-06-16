@@ -7,7 +7,7 @@
 This project demonstrates a complete end-to-end **data engineering and visualization pipeline** using **Azure Data Services** on the **Tokyo Olympics 2021 dataset**. It showcases how to fetch data from an API, ingest it using Azure Data Factory, store it in Azure Data Lake Storage, transform it using Databricks (Apache Spark), query it using Synapse Analytics, and finally visualize key insights in Power BI.
 
 🔗 **Dataset Source**: [Kaggle – 2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)  
-📓 **Notebook**: [tokyo_olympics_analysis.ipynb](./tokyo_olympics_analysis.ipynb)
+📓 **Notebook**: [Tokyo_Olympics_Analysis.ipynb](Tokyo Olympics Data Transformation.ipynb)
 
 ---
 
